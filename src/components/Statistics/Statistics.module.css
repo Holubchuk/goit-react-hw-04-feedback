@@ -1,0 +1,14 @@
+.statisticsContainer {
+    width: 520px;
+    margin: 0 auto;
+}
+.statisticsList {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.statisticsItemLabel { 
+    font-size: 24px;
+    font-weight: 600;
+}

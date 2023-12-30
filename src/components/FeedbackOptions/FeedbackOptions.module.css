@@ -1,0 +1,15 @@
+.feedbackConpainer {
+    width: 520px;
+    margin: 50px auto;
+    display: flex;
+    gap: 30px;
+}
+.feedbackButton {
+    cursor: pointer;
+    width: 50%;
+    font-weight: 400;
+    font-size: 24px;
+    border: 1px solid grey;
+    border-radius: 20%;
+    text-transform: capitalize;
+}
